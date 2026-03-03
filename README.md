@@ -1,12 +1,3 @@
-That’s completely okay, Rimi Kumari 🙌🔥
-Every strong portfolio starts from **zero**. Blank repo is not bad — it means you’re just starting your journey 💪
-
-Let’s make it look professional even if it’s your first day.
-
-Copy this simple starter README 👇
-
----
-
 # 📊 BIA Data Science Portfolio
 
 👨‍💻 **Rimi Kumari**
